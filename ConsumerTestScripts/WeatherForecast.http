@@ -1,0 +1,2 @@
+#uses httpyac extension
+GET http://localhost:5175/WeatherForecast
